@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMailWinForm", "AutoMailWinForm\AutoMailWinForm.csproj", "{0153C5E6-8649-48F7-9D92-69C639719504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{5C5C2D2A-D8CA-432F-9ED7-5FA7941144C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{96F46F8B-C2B1-48FE-BF9D-EEC85D60B4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B6DD92CF-CE4D-4B53-B2E4-58ADF7DF5C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMail001", "AutoMail001\AutoMail001.csproj", "{E4681930-4911-4FAB-9C98-F0D4F009A983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMail002", "AutoMail002\AutoMail002.csproj", "{FEEAC507-7B82-4392-8E75-58E032BCF6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0153C5E6-8649-48F7-9D92-69C639719504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0153C5E6-8649-48F7-9D92-69C639719504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0153C5E6-8649-48F7-9D92-69C639719504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0153C5E6-8649-48F7-9D92-69C639719504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5C2D2A-D8CA-432F-9ED7-5FA7941144C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5C2D2A-D8CA-432F-9ED7-5FA7941144C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5C2D2A-D8CA-432F-9ED7-5FA7941144C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5C2D2A-D8CA-432F-9ED7-5FA7941144C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F46F8B-C2B1-48FE-BF9D-EEC85D60B4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F46F8B-C2B1-48FE-BF9D-EEC85D60B4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F46F8B-C2B1-48FE-BF9D-EEC85D60B4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F46F8B-C2B1-48FE-BF9D-EEC85D60B4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DD92CF-CE4D-4B53-B2E4-58ADF7DF5C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DD92CF-CE4D-4B53-B2E4-58ADF7DF5C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DD92CF-CE4D-4B53-B2E4-58ADF7DF5C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DD92CF-CE4D-4B53-B2E4-58ADF7DF5C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4681930-4911-4FAB-9C98-F0D4F009A983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4681930-4911-4FAB-9C98-F0D4F009A983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4681930-4911-4FAB-9C98-F0D4F009A983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4681930-4911-4FAB-9C98-F0D4F009A983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEAC507-7B82-4392-8E75-58E032BCF6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEAC507-7B82-4392-8E75-58E032BCF6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEAC507-7B82-4392-8E75-58E032BCF6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEAC507-7B82-4392-8E75-58E032BCF6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
